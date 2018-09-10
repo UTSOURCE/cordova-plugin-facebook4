@@ -48,8 +48,8 @@
         </config-file>
 <!-- Requires >cordova>=7版本 -->
         <config-file parent="/resources" target="./res/values/strings.xml">
-            <string name="fb_app_id">723583424386039</string>
-            <string name="fb_app_name">UTSOUCRCE</string>
+            <string name="fb_app_id">1543677069111040</string>
+            <string name="fb_app_name">Utsource</string>
         </config-file>
 <!-- Requires >cordova>=7版本 -->
         <config-file target="AndroidManifest.xml" parent="application">
